@@ -13,6 +13,8 @@ const Main = () => {
             your <span className="genesius">Genesius </span><span className="web3">of web3 learning</span>
         </h1>
 
+        <img src="../../assets/gif/animation_500_l7btuf2b.gif" alt="scroll__gif" className="scroll__gif" />
+
         <Socials/>
     </div>
   )

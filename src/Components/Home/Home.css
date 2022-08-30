@@ -44,3 +44,8 @@
     flex-direction: column;
     gap: 2rem;
 }
+
+.social__link:hover {
+  transform: translate(-.25rem, 0);
+  transition: 300ms ease-in-out;
+}

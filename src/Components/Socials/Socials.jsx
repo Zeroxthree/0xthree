@@ -7,13 +7,13 @@ const Socials = () => {
   return (
     <div className='socials'>
       <Link to='/'>
-        <TwitterIcon fontSize='medium' sx={{color: '#FF41E1'}}/>
+        <TwitterIcon className='social__link' fontSize='medium' sx={{color: '#FF41E1', fontSize: '1.75rem'}}/>
       </Link>
       <Link to='/'>
-        <GitHubIcon fontSize='medium' sx={{color: '#FF41E1'}}/>
+        <GitHubIcon className='social__link' fontSize='medium' sx={{color: '#FF41E1', fontSize: '1.75rem'}}/>
       </Link>
       <Link to='/'>
-        <LinkedInIcon fontSize='medium' sx={{color: '#FF41E1'}}/>
+        <LinkedInIcon className='social__link' fontSize='medium' sx={{color: '#FF41E1', fontSize: '1.75rem'}}/>
       </Link>
     </div>
   )
