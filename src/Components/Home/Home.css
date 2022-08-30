@@ -1,0 +1,46 @@
+.main {
+  color: #fefefe;
+  height: calc(90vh - 10rem);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.main__welcome {
+  font-size: 1.25rem;
+  letter-spacing: 5px;
+}
+
+.main__heading {
+  font-size: 5.5rem;
+  letter-spacing: 1px;
+  text-align: center;
+  width: 39%;
+  font-weight:500;
+}
+
+.main__heading span.genesius {
+  font-size: 7rem;
+  background: linear-gradient(
+    90.08deg,
+    #5300ff 25.83%,
+    rgba(255, 0, 214, 0.9) 92.57%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 600;
+}
+.main__heading span.web3{
+    font-size: 4rem;
+}
+
+.socials{
+    position: absolute;
+    right: 5.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
