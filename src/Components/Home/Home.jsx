@@ -1,5 +1,6 @@
 import Navbar from '../Navbar/Navbar'
-import Main from '../Home/Main'
+import Main from './Main'
+import Build from './Build'
 
 const Home = () => {
   return (
