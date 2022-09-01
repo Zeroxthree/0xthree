@@ -6,6 +6,8 @@ import New from './New'
 import './Home.css'
 import Trust from './Trust'
 import Newsletter from './Newsletter'
+import Accordion__util from '../Accordion/Accordion'
+import Footer from '../Footer/Footer'
 
 const Home = () => {
   return (
@@ -17,6 +19,16 @@ const Home = () => {
       <New/>
       <Trust/>
       <Newsletter/>
+      <div className="home__accordion">
+        <h2>
+          Welcome to 0xthree ecosystem
+        </h2>
+        <Accordion__util className='home__accordion-accordion'/>
+      </div>
+      <div className="home__footer">
+        <img src="../../assets/footer/background.png" alt="" className="bg-img" />
+        <Footer/>
+      </div>
     </div>
   );
 };

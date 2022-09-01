@@ -166,6 +166,7 @@
   justify-content: center;
   gap: 2rem;
   flex-direction: column;
+  margin-bottom: 10rem;
 }
 
 .newsletter h2{
@@ -177,4 +178,30 @@
 .newsletter .form-control{
   display: flex;
   align-items: center;
+  gap: 2rem;
+}
+
+.home__accordion{
+  height: 80vh;
+  color: #fefefe;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 7.5rem;
+  gap: 3rem;
+}
+
+.home__accordion h2{
+  font-size: 4rem;
+}
+
+.home__footer{
+  position: relative;
+  height: 40vh;
+}
+
+.home__footer img{
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
 }
