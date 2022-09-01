@@ -4,7 +4,7 @@ const New = () => {
   return (
     <div className="new">
       <Link to='/'>
-        <img src="../assets/new.png" alt="new" />
+        <img src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/new.png?token=GHSAT0AAAAAABXQBFY2KB5H64YS6EPNXKOIYYQHQJA" alt="new" />
       </Link>
     </div>
   );
