@@ -15,7 +15,7 @@ const Main = () => {
 
         <img src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/gif/animation_500_l7btuf2b.gif?token=GHSAT0AAAAAABXQBFY33AUW54X66ZB6DUIKYYQHVUQ" alt="scroll__gif" className="scroll__gif" />
 
-        <Socials/>
+        <Socials className='main-socials'/>
     </div>
   )
 }
