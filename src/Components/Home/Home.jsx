@@ -6,6 +6,7 @@ const Home = () => {
     <div className='home'>
       <Navbar/>
       <Main/>
+      <Build/>
     </div>
   )
 }
