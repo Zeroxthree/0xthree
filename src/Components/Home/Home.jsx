@@ -5,6 +5,7 @@ import Hot from "./Hot";
 import New from './New'
 import './Home.css'
 import Trust from './Trust'
+import Newsletter from './Newsletter'
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <Hot />
       <New/>
       <Trust/>
+      <Newsletter/>
     </div>
   );
 };
