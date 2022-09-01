@@ -32,7 +32,7 @@ const Footer = () => {
         <div className="footer__top-right">
           <h4>Newsletter</h4>
           <img
-            src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/newsletter/Group%2010165%20(1).png?token=GHSAT0AAAAAABXQBFY3OKG2GTIFGK65FPN6YYQKQVQ"
+            src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/newsletter/Group%2010165%20(1).png?token=GHSAT0AAAAAABXQBFY3MU24D26OVZNTRKYGYYQK6EA"
             alt="subscribe"
           />
           <div className="footer__socials">

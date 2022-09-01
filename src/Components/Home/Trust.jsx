@@ -24,19 +24,19 @@ const Trust = () => {
         </div>
         <div className="trust__top-right">
           <img
-            src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/trust/Rectangle%201231.png?token=GHSAT0AAAAAABXQBFY3HCOO5P5QP3JJUEV2YYQH2OA"
+            src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/trust/Rectangle%201231.png?token=GHSAT0AAAAAABXQBFY3WAKTZR5D37OJ4FIQYYQLAAA"
             alt="blank"
           />
         </div>
       </div>
       <div className="trust__bottom">
         <img
-          src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/trust/Group%2010158.png?token=GHSAT0AAAAAABXQBFY2UZ7T6HCQERPY4W5GYYQH2MA"
+          src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/trust/Group%2010158.png?token=GHSAT0AAAAAABXQBFY3JOA47BQX5UYYYQVWYYQLADQ"
           alt="trust-img"
           className="trust__bottom-left"
         />
         <img
-          src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/trust/Rectangle%201230.png?token=GHSAT0AAAAAABXQBFY3AIX6Y2JIGIM6NYL6YYQH3VA"
+          src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/trust/Rectangle%201230.png?token=GHSAT0AAAAAABXQBFY2D2CBXVGDC7O3XBOSYYQK76Q"
           alt="trust__bottom-right"
           className="trust__bottom-right"
         />

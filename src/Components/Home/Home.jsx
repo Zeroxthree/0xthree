@@ -26,7 +26,7 @@ const Home = () => {
         <Accordion__util className='home__accordion-accordion'/>
       </div>
       <div className="home__footer">
-        <img src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/footer/background.png?token=GHSAT0AAAAAABXQBFY2KHHYRE3M4PU6X2KWYYQKFQA" alt="" className="bg-img" />
+        <img src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/footer/background.png?token=GHSAT0AAAAAABXQBFY3TQEFU6D6YP655AV4YYQLDEA" alt="" className="bg-img" />
         <Footer/>
       </div>
     </div>
