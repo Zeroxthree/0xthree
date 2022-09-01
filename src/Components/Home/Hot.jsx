@@ -8,20 +8,20 @@ const Hot = () => {
         <div className="hot__left">
           <Link to="/" className="hot__left-top">
             <img
-              src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/tech-stack/Frame%2010151.png?token=GHSAT0AAAAAABXQBFY3KIIHJ4AWCIBJO5EEYYQG5FA"
+              src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/tech-stack/Frame%2010151.png?token=GHSAT0AAAAAABXQBFY2MJ2MFIPYFNQVUEEWYYQHWKA"
               alt="chainlink"
             />
           </Link>
           <div className="hot__left-bottom">
             <Link to="/" className="hot__left-top">
               <img
-                src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/tech-stack/Frame%2010155%20(1).png?token=GHSAT0AAAAAABXQBFY3TQIHAKKFI4BJWQH6YYQG5NQ"
+                src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/tech-stack/Frame%2010155%20(1).png?token=GHSAT0AAAAAABXQBFY2JIGXWTK34YVTBNA2YYQHT5Q"
                 alt="nft"
               />
             </Link>
             <Link to="/" className="hot__left-top">
               <img
-                src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/tech-stack/Frame%2010154.png?token=GHSAT0AAAAAABXQBFY36J3GF32NBW6LIXD6YYQG5JQ"
+                src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/tech-stack/Frame%2010154.png?token=GHSAT0AAAAAABXQBFY2DSLJJYBERUYKWYU4YYQHT5Q"
                 alt="solidity"
               />
             </Link>
@@ -30,7 +30,7 @@ const Hot = () => {
         <div className="hot__right">
           <Link to="/">
             <img
-              src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/tech-stack/Frame%2010153.png?token=GHSAT0AAAAAABXQBFY357F6AA4ACLS33YT6YYQG5IQ"
+              src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/tech-stack/Frame%2010153.png?token=GHSAT0AAAAAABXQBFY3TKMBTUUT4XXCB6YMYYQHWMQ"
               alt="ethereum"
             />
           </Link>
