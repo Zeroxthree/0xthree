@@ -7,7 +7,7 @@ const Navbar = () => {
         <Link to='/' className='navbar__logo navbar__link'>0xthree.</Link>
 
         <div className="navbar__links">
-          <Link to='/' className='navbar__link'>Learn</Link>
+          <Link to='/learn' className='navbar__link'>Learn</Link>
           <Link to='/' className='navbar__link'>Build</Link>
           <Link to='/' className='navbar__link'>Explore</Link>
         </div>
