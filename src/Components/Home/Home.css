@@ -1,6 +1,6 @@
 .main {
   color: #fefefe;
-  height: calc(100vh);
+  height: calc(100vh - 0rem);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -40,6 +40,8 @@
 .socials{
     position: absolute;
     right: 5.5rem;
+    top: 40%;
+    transform: translateY(-50%);
     display: flex;
     flex-direction: column;
     gap: 2rem;
@@ -155,6 +157,7 @@
 }
 
 .trust__bottom{
+  display: flex;
   display: flex;
   justify-content: space-between;
   gap: 9rem;
