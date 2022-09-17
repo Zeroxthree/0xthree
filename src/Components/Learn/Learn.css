@@ -1,0 +1,11 @@
+.learn__content h1 span {
+  background: linear-gradient(
+    90.08deg,
+    #7000ff 25.83%,
+    rgba(255, 0, 214, 0.9) 92.57%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
