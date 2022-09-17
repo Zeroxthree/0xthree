@@ -19,7 +19,7 @@ const Footer = () => {
         </div>
         <div className="footer__top-center">
           <h4>Quick links</h4>
-          <Link className="footer-link" to="/">
+          <Link className="footer-link" to="/learn">
             Learn
           </Link>
           <Link className="footer-link" to="/">
