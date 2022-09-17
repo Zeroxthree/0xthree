@@ -160,7 +160,7 @@
   display: flex;
   display: flex;
   justify-content: space-between;
-  gap: 9rem;
+  gap: 2rem;
 }
 
 .newsletter{
@@ -210,4 +210,21 @@
   bottom: 0;
   height: 100%;
   z-index: -2;
+}
+
+.takeBackToTop {
+    box-shadow: 0 4px 12px #3133351a;
+  color: #fff;
+  transition: 0.4s;
+  background: linear-gradient(
+    -15deg,
+    #5300ff 25.83%,
+    rgba(255, 0, 214, 0.9) 92.57%
+  );
+
+}
+
+.takeBackToTop:hover {
+  transform: translateY(-0.25rem);
+  opacity: 1;
 }

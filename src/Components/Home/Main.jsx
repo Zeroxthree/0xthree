@@ -1,6 +1,8 @@
 import React from 'react'
 import Socials from '../Socials/Socials'
 import './Home.css'
+import ScrollGif from "../../assets/gif/scroll.gif";
+
 
 const Main = () => {
   return (
@@ -13,7 +15,7 @@ const Main = () => {
             your <span className="genesius">Genesius </span><span className="web3">of web3 learning</span>
         </h1>
 
-        <img src="https://raw.githubusercontent.com/Zeroxthree/0xthree/master/src/assets/gif/animation_500_l7btuf2b.gif?token=GHSAT0AAAAAABXQBFY3YUZQR7NQE7A3T6NSYYQLDIA" alt="scroll__gif" className="scroll__gif" />
+        <img src={ScrollGif} alt="scroll__gif" className="scroll__gif" />
 
         <Socials className='main-socials'/>
     </div>
