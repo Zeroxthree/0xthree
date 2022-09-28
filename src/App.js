@@ -5,6 +5,9 @@ import Navbar from "./Components/Navbar/Navbar";
 import Learn from "./Components/Learn/Learn";
 import {useState, useEffect} from 'react'
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
+import { BrowserRouter, Route } from "react-router-dom";
+import AllPosts from "./components/AllPosts";
+import OnePosts from "./components/OnePosts";
 
 
 function App() {
@@ -50,6 +53,15 @@ function App() {
       </div>
     </Router>
   );
+
+  return (
+    <BrowserRouter>
+       <div>
+       <Route component={AllPosts} path="/allposts" exact />
+       <Route component={OnePosts} path="/:slug" />
+       </div>
+    </BrowserRouter>
+  )
 }
 
 export default App;
